@@ -1,0 +1,16 @@
+.loginpage .message.error {
+  color: #C11313;
+  background: #fff;
+  border-radius: 20px;
+  padding: 7px 0;
+  font-size: 18px;
+  text-align: center;
+}
+.loginpage .message.success {
+  color: #14808C;
+  background: #fff;
+  border-radius: 20px;
+  padding: 7px 0;
+  font-size: 18px;
+  text-align: center;
+}
